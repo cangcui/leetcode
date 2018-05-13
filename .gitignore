@@ -1,4 +1,5 @@
 ##ignore this files##
 /leetcode.xcodeproj/
 *proj
-*.tmp
+*tmp
+*tmp/
