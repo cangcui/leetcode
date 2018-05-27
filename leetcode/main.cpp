@@ -9,9 +9,11 @@
 #include <iostream>
 
 #include "p_547.hpp"
+#include "p_646.hpp"
+#include "p_129.hpp"
 
 int main(int argc, const char * argv[]) {
-    P547Solution test;
+    P129Solution test;
     test.test();
     return 0;
 }
